@@ -1,5 +1,4 @@
 # picturePublishing
-# picturePublishing
 
 
 1)Download Spring tool suite: https://spring.io/tools:
@@ -42,4 +41,4 @@ VALUES ("admin", "admin@gmail.com","admin123");
 and run commands :  
 npm install 
 npm start
-# picturePublishing
+
